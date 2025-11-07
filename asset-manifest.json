@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/consulteja/static/css/main.5b266502.css",
+    "main.js": "/consulteja/static/js/main.7e03a467.js",
+    "index.html": "/consulteja/index.html",
+    "main.5b266502.css.map": "/consulteja/static/css/main.5b266502.css.map",
+    "main.7e03a467.js.map": "/consulteja/static/js/main.7e03a467.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b266502.css",
+    "static/js/main.7e03a467.js"
+  ]
+}
