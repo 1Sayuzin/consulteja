@@ -1,0 +1,14 @@
+.itens-container {
+    margin-top: 12px;
+    background: #ffffff;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.item-carrinho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}

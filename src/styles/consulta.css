@@ -1,0 +1,20 @@
+.consulta-container input {
+    margin-bottom: 10px;
+}
+
+.aviso {
+    margin-top: 12px;
+    padding: 12px;
+    background: #fff7ed;
+    border-left: 4px solid #f59e0b;
+    border-radius: 6px;
+}
+
+.aviso p {
+    margin-bottom: 8px;
+    color: #92400e;
+}
+
+.produto-card {
+    margin-top: 12px;
+}

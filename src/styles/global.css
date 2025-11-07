@@ -1,0 +1,51 @@
+/* Reset e base */
+* {
+    box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f1f3f5;
+    color: #111827;
+}
+
+.container {
+    width: 94%;
+    max-width: 920px;
+    margin: 28px auto;
+    background: #fff;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    background: #2563eb;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 6px;
+}
+
+button.excluir {
+    background: #ef4444;
+}
+
+input {
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid #e6eef6;
+    width: 100%;
+}
+
+h2 {
+    margin-bottom: 12px;
+}

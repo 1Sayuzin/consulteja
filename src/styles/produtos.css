@@ -1,0 +1,55 @@
+.lista-produtos {
+    list-style: none;
+    padding: 0;
+    margin-top: 12px;
+}
+
+.lista-produtos li {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 12px;
+    background: #fff;
+    border-radius: 6px;
+    margin-bottom: 8px;
+}
+
+.lista-produtos .excluir {
+    background: #ef4444;
+}
+
+.desconto {
+    color: green;
+    margin-left: 6px;
+}
+
+/* modal */
+.modal-fundo {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.45);
+    z-index: 99;
+}
+
+.modal {
+    background: white;
+    padding: 18px;
+    border-radius: 8px;
+    width: 320px;
+    text-align: center;
+}
+
+.modal .botoes-modal {
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.modal .erro {
+    color: #b91c1c;
+    margin-top: 8px;
+}

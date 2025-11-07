@@ -1,0 +1,9 @@
+.container input {
+    margin-top: 8px;
+}
+
+.container .botoes {
+    margin-top: 10px;
+    display: flex;
+    gap: 8px;
+}
